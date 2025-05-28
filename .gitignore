@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PyCharm files
+.idea/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
